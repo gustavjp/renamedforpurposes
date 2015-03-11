@@ -693,13 +693,6 @@ footer .owner {
   color: #d6d6d6;
 }
 
-footer .creds small {
-  float: right;
-  font-size: 10px;
-  text-align: right;
-  margin-left: 15px;
-}
-
 footer .owner .avatar {
   background-color: #666;
   display: block;
